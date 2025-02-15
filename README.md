@@ -1,16 +1,24 @@
-# barcode
+# 📦 Barcode Overview App
 
-A Barcode Example App
+A modern **Flutter app** that displays and manages various **barcode types**.  
+This app features **Material 3 design**, smooth **animations**, and a **clean structure**.
 
-## Getting Started
+## ✨ Features
+✔ **Supported barcodes**: Code 128, EAN-13, EAN-8, QR Code  
+✔ **Material 3 UI** with a modern look  
+✔ **BottomNavigationBar** for easy navigation  
+✔ **Reusable components** for cleaner code  
+✔ **Smooth animations for better user experience**  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1️⃣ Prerequisites
+- Flutter **3.x** must be installed ([Download](https://flutter.dev/docs/get-started/install))
+- Dart SDK **latest version**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2️⃣ Clone the repository
+```sh
+git clone https://github.com/yourusername/barcode-app.git
+cd barcode-app
