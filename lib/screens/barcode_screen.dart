@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:barcode_widget/barcode_widget.dart';
-
 import '../widgets/barcode_card.dart';
 
 
