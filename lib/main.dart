@@ -1,3 +1,4 @@
+import 'package:barcode_app/screens/home_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -17,5 +18,6 @@ class BarcodeApp extends StatelessWidget {
         useMaterial3: true,
       ),
     home: const HomeScreen(),
+    );
   }
 }
